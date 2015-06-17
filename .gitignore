@@ -19,3 +19,7 @@ doc/
 
 #MACOSX artifacts
 .DS_Store
+
+#rubymine
+.idea/
+
